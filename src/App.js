@@ -15,7 +15,7 @@ function App() {
   const toggleMode = () => {
     if (mode === "light") {
       setMode("dark");
-      document.body.style.backgroundColor = "#082189";
+      document.body.style.backgroundColor = "#292A4A";
       document.title = "Text Counter Dark";
     } else {
       setMode("light");
