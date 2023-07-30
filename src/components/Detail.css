@@ -1,0 +1,15 @@
+/* Styles for screens smaller than 768px (typical mobile devices) */
+@media (max-width: 767px) {
+    .btn {
+        display: block;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+}
+
+/* Additional styles for screens smaller than 576px (smaller mobile devices) */
+@media (max-width: 575px) {
+    .btn {
+        font-size: 14px;
+    }
+}
