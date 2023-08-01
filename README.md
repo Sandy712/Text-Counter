@@ -3,7 +3,7 @@
 
 <p>This tool provides an easy way to count the number of words and letters and convert them into uppercase, lower and cop to clipboard </p>
 <h1>🚀 Demo</h1>
-<p>Try the tool:  <a href="https://text-counter007.netlify.app">Wrod-Counter</a></p>
+<p>Try the tool:  <a href="https://text-counter007.netlify.app">Word-Counter</a></p>
 
 <h1>Features</h1>
 <p>Just enter the sentence or paragraph </p>
