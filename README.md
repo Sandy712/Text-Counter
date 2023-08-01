@@ -1,9 +1,9 @@
 ![Screenshot 2023-07-30 234529](https://github.com/Sandy712/Text-Counter/assets/93380368/68508160-e16f-4f91-8d5d-52f78f0c2522)
 <h1>Word Counter</h1>
 
-<p>This tool provides an easy way to count the number of words and letters and convert them into uppercase , lower and cop to clipboard </p>
+<p>This tool provides an easy way to count the number of words and letters and convert them into uppercase, lower and cop to clipboard </p>
 <h1>🚀 Demo</h1>
-<p>Try the tool:  <a href="[LINK HERE]">Wrod-Counter</a></p>
+<p>Try the tool:  <a href="https://text-counter007.netlify.app">Wrod-Counter</a></p>
 
 <h1>Features</h1>
 <p>Just enter the sentence or paragraph </p>
